@@ -33,6 +33,7 @@ Here are some of my featured projects:
 
 <br>
 ---
+
 <!-- PROJECT 1 -->
 <h2>Bean Logbook</h2>
 
@@ -47,6 +48,7 @@ This project was built using the **Django** framework.
 </p>
 
 ---
+
 <!-- PROJECT 2 -->
 <h2>Computer Graphics</h2>
 
@@ -57,7 +59,9 @@ This project was built using the **Django** framework.
 <p>
 A complete Computer Graphics course with examples using ModelViewer, Three.js, and audiovisual tools.
 </p>
+
 ---
+
 <!-- PROJECT 3 -->
 <h2>Interactive Portfolio</h2>
 
