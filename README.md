@@ -32,25 +32,12 @@ Some things about me:
 Here are some of my featured projects:
 
 <br>
-
-<!-- PROJECT 1 -->
-<h2>Computer Graphics</h2>
-
-<a href="https://github.com/JuanCarvajal28/Computacion-Grafica-2025">
-  <img src="/assets/compu-graf.png" alt="Project 1 Image" width="400">
-</a>
-
-<p>
-A complete Computer Graphics course with examples using ModelViewer, Three.js, and audiovisual tools.
-</p>
-
 ---
-
-<!-- PROJECT 2 -->
+<!-- PROJECT 1 -->
 <h2>Bean Logbook</h2>
 
 <a href="https://github.com/JuanCarvajal28/bitacora_frijol">
-  <img src="/assets/bitacora.png" alt="Project 2 Image" width="400">
+  <img src="/assets/bitacora.png" alt="Project 1 Image" width="400">
 </a>
 
 <p>
@@ -60,7 +47,17 @@ This project was built using the **Django** framework.
 </p>
 
 ---
+<!-- PROJECT 2 -->
+<h2>Computer Graphics</h2>
 
+<a href="https://github.com/JuanCarvajal28/Computacion-Grafica-2025">
+  <img src="/assets/compu-graf.png" alt="Project 2 Image" width="400">
+</a>
+
+<p>
+A complete Computer Graphics course with examples using ModelViewer, Three.js, and audiovisual tools.
+</p>
+---
 <!-- PROJECT 3 -->
 <h2>Interactive Portfolio</h2>
 
@@ -73,5 +70,4 @@ This portfolio showcases a bit more about me. It is a project made using ModelVi
 a 3D gallery with models created by me.  
 It is intended for academic use only.
 </p>
-
 ---
