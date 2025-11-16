@@ -30,8 +30,8 @@ Some things about me:
 # 🚀 Projects
 
 Here are some of my featured projects:
-
 <br>
+
 ---
 
 <!-- PROJECT 1 -->
@@ -74,4 +74,5 @@ This portfolio showcases a bit more about me. It is a project made using ModelVi
 a 3D gallery with models created by me.  
 It is intended for academic use only.
 </p>
+
 ---
