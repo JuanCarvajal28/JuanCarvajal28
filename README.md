@@ -44,7 +44,7 @@ Here are some of my featured projects:
 <p>
 A project developed for the Software Laboratory III course. It functions as a logbook where users can 
 record daily measurements of a bean’s growth, generating scatter plots using a simple linear regression algorithm.  
-This project was built using the **Django** framework.
+This project was built using the Django framework.
 </p>
 
 ---
